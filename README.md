@@ -86,5 +86,5 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas e aplicativos, sempr
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=INKWOLRD.INKWOLRD&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoRufinoS.JoaoRufinoS&"  />
 </div>
