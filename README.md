@@ -24,30 +24,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas e aplicativos, sempr
  ---
  ### 🤖Linguagens e tecnologias
  
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+
 />
 <img 
     align="left" 
@@ -57,9 +34,6 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas e aplicativos, sempr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
@@ -83,8 +57,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas e aplicativos, sempr
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-<div align="center">
+  <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoRufinoS.JoaoRufinoS&"  />
 </div>
+
