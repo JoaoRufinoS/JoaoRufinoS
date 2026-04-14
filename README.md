@@ -1,50 +1,59 @@
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=60&fontColor=FFFFFF&text=Olá,%20eu%20sou%20o%20João!&fontAlign=50&fontAlignY=50&stroke=-&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Rufino;Desenvolvedor+Python+%26+C%2B%2B;Focado+em+Backend+e+Otimiza%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://linkedin.com/in/joao-vitor-rufino-santos-1a0818234" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/joao-vitor-rufino-santos-1a0818234">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
 
-## 👨‍💻 Sobre Mim
-**`Estudante de ADS na FATEC | Desenvolvedor Python & C++ | Focado em Backend e Otimização`**
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="55%">
+      <h2>👨‍💻 Sobre Mim</h2>
+      <p>
+        Tenho 19 anos, sou de São Paulo e estudo <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na <b>FATEC</b>.<br><br>
+        Minha paixão é entender como as coisas funcionam "debaixo do capô". Por isso, direcionei meus estudos para o desenvolvimento de alta performance, explorando estruturas de dados com <b>C++</b> e criando automações inteligentes com <b>Python</b>. 
+      </p>
+    </td>
+    <td align="center" width="45%">
+      <h2>⚙️ Stack Tecnológico</h2>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <br>
+        <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <br>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-Tenho 19 anos, sou de São Paulo e sou apaixonado por entender o que acontece "debaixo do capô" dos sistemas. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC**, construindo uma base sólida em lógica e desenvolvimento de alta performance.
+<br>
 
-* 🚀 **Foco:** Desenvolvimento Backend, Automação, Algoritmos e Otimização de Sistemas.
-* 💻 **Ambiente:** Experiência com Linux e configurações de hardware voltadas para performance.
-* 🌱 **Aprendendo no momento:** Aprofundando em estruturas de dados complexas com C++ e automações ágeis com Python.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
+<h2 align="center">📈 Produtividade e Estatísticas</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaorufinos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorufinos&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=5" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaorufinos&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=333333&include_all_commits=true&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorufinos&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&custom_title=Linguagens" height="160" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=tokyonight" />
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaorufinos.joaorufinos&" alt="Visitantes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaorufinos&theme=dark&background=000000&border=333333&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC" height="160" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=000000&text=Building%20the%20Backend&fontColor=FFFFFF&fontSize=20&desc=Code.%20Compile.%20Optimize.&descSize=12&descColor=CCCCCC" />
 </div>
