@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/joao-vitor-rufino-santos-1a0818234">
+  <a href="https://linkedin.com/in/joao-vitor-rufino-santos-1a0818234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -55,5 +55,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=000000&text=Building%20the%20Backend&fontColor=FFFFFF&fontSize=20&desc=Code.%20Compile.%20Optimize.&descSize=12&descColor=CCCCCC" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=000000&text=Building%20the%20Backend&fontColor=FFFFFF&fontSize=22&fontAlignY=40&desc=Code.%20Compile.%20Optimize.&descSize=14&descColor=CCCCCC&descAlignY=70" />
 </div>
