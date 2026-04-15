@@ -57,5 +57,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=000000&text=Building%20the%20Backend&fontColor=FFFFFF&fontSize=22&fontAlignY=40&desc=Code.%20Compile.%20Optimize.&descSize=14&descColor=CCCCCC&descAlignY=70" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=joaorufinos&color=white&style=flat-square&label=VISITANTES" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=joaorufinos&color=ffffff&style=flat-square&label=VISITANTES" alt="Visitantes" />
 </div>
