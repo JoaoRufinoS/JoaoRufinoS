@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Rufino;Desenvolvedor+Python+%26+C%2B%2B;Focado+em+Backend+e+Otimiza%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Rufino;Desenvolvedor+Python%2C+C%2B%2B+entre+outros;Focado+em+Backend+e+Otimiza%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <br>
@@ -18,7 +18,7 @@
       <h2>👨‍💻 Sobre Mim</h2>
       <p>
         Tenho 19 anos, sou de São Paulo e estudo <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na <b>FATEC</b>.<br><br>
-        Minha paixão é entender como as coisas funcionam "debaixo do capô". Por isso, direcionei meus estudos para o desenvolvimento de alta performance, explorando estruturas de dados com <b>C++</b> e criando automações inteligentes com <b>Python</b>. 
+        Minha paixão é entender como as coisas funcionam "debaixo do capô". Por isso, direcionei meus estudos para o desenvolvimento de alta performance, explorando estruturas de dados com <b>C++</b> e criando automações inteligentes com <b>Python</b>.
       </p>
     </td>
     <td align="center" width="45%">
