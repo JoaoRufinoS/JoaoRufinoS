@@ -42,14 +42,14 @@
 <h2 align="center">📈 Produtividade e Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaorufinos&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=333333&include_all_commits=true&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorufinos&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333&custom_title=Linguagens" height="160" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaorufinos&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=333333&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorufinos&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&border_color=333333" height="165" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaorufinos&theme=dark&background=000000&border=333333&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaorufinos&theme=dark&background=000000&border=333333&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC" height="165" />
 </div>
 
 <br>
@@ -57,5 +57,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=000000&text=Building%20the%20Backend&fontColor=FFFFFF&fontSize=22&fontAlignY=40&desc=Code.%20Compile.%20Optimize.&descSize=14&descColor=CCCCCC&descAlignY=70" />
   <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaorufinos.joaorufinos&" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=joaorufinos&color=white&style=flat-square&label=VISITANTES" alt="Visitantes" />
 </div>
