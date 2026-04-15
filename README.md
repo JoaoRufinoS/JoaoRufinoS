@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Rufino;Desenvolvedor+Python%2C+C%2B%2B+entre+outros;Focado+em+Backend+e+Otimiza%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Rufino;Desenvolvedor+Python%2C+C%2B%2B+entre+outros;Focado+em+Backend+e+Otimiza%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <br>
@@ -56,4 +56,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=000000&text=Building%20the%20Backend&fontColor=FFFFFF&fontSize=22&fontAlignY=40&desc=Code.%20Compile.%20Optimize.&descSize=14&descColor=CCCCCC&descAlignY=70" />
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaorufinos.joaorufinos&" alt="Visitantes" />
 </div>
