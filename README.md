@@ -18,7 +18,7 @@
       <h2>👨‍💻 Sobre Mim</h2>
       <p>
         Tenho 19 anos, sou de São Paulo e estudo <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na <b>FATEC</b>.<br><br>
-        Minha paixão é entender como as coisas funcionam "debaixo do capô". Por isso, direcionei meus estudos para o desenvolvimento de alta performance, explorando estruturas de dados com <b>C++</b> e criando automações inteligentes com <b>Python</b>.
+        Minha paixão é entender como as coisas funcionam "debaixo do capô". Por isso, direcionei meus estudos para o desenvolvimento de alta performance, explorando estruturas de dados com <b>C++</b> e criando automações inteligentes com <b>Python</b> e muito mais.
       </p>
     </td>
     <td align="center" width="45%">
